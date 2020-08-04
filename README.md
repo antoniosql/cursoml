@@ -1,1 +1,1 @@
-# cursoml
+# Curso de Machine Learning - SolidQ / Verne Technology Group
