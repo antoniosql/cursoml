@@ -8,6 +8,7 @@ Para poder reproducir las demostraciones e intentar los ejercicios es necesario 
 - Extensión de Python para Visual Studio Code
 
 
+
 ## Conocimientos necesarios
 
 El curso parte de la base de que se dispone de experiencia trabajando con datos, ya sea utilizando Excel como herramienta de explotación, consultas SQL, o experiencia en desarrollo de aplicaciones backend. 
