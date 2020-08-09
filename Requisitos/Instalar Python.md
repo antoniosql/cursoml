@@ -1,6 +1,8 @@
 # Instalación de Python
 
 https://www.codecademy.com/articles/install-python3 
+https://recursospython.com/guias-y-manuales/instalacion-y-utilizacion-de-pip-en-windows-linux-y-os-x/
+https://recursospython.com/guias-y-manuales/python-no-se-reconoce-como-un-comando-interno-o-externo/
 
 La instalación de Python es sencilla. Puedes descargar la última versión desde este enlace https://www.python.org/downloads/ seleccionado el Sistema Operativo sobre el que quieres trabajar. 
 
