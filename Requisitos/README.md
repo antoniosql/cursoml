@@ -3,7 +3,7 @@
 ## Requisitos técnicos
 Para poder reproducir las demostraciones e intentar los ejercicios es necesario que tengáis instalado en vuestro equipo:
 
-- Python
+- Python 
 - Visual Studio Code
 - Extensión de Python para Visual Studio Code
 
