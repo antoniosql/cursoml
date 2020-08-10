@@ -8,9 +8,9 @@ Los objetivos de este curso son introducir al alumno en el mundo del Machine Lea
 
 ## Agenda
 1.	Introducción a Machine Learning
-    a.	¿Qué es Machine Learning?
-    b.	Tipos de problemas que resuelve
-    c.	Ciclo de vida de un proyecto ML
+    - ¿Qué es Machine Learning?
+    - Tipos de problemas que resuelve
+    - Ciclo de vida de un proyecto ML
 2.	Requisitos de datos
     a.	Exploración de datos
     b.	Preparación de datos
