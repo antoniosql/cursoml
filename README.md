@@ -12,19 +12,19 @@ Los objetivos de este curso son introducir al alumno en el mundo del Machine Lea
     - Tipos de problemas que resuelve
     - Ciclo de vida de un proyecto ML
 2.	Requisitos de datos
-    a.	Exploración de datos
-    b.	Preparación de datos
+    - Exploración de datos
+    - Preparación de datos
 3.	Entendiendo los Algoritmos de Machine Learning
-    a.	Clasificación
-    b.	Regresión
-    c.	Clustering
-    d.	Anomalías
-    e.	Recomendaciones
+    - Clasificación
+    - Regresión
+    - Clustering
+    - Anomalías
+    - Recomendaciones
 4.	Ingeniería de Características
-    a.	Técnica de generación de características
-    b.	Selección de Características
+    - Técnica de generación de características
+    - Selección de Características
 5.	Técnicas Avanzadas
-    a.	Optimización de hiperparámetros
-    b.	Validación Cruzada
-    c.	Reducción de dimensionalidad
+    - Optimización de hiperparámetros
+    - Validación Cruzada
+    - Reducción de dimensionalidad
 6.	Despliegue y Mantenimiento
