@@ -1,3 +1,4 @@
+![SolidQ](https://antoniosql.github.io/images/SolidQ_Verne.png) 
 # Curso de Machine Learning - SolidQ / Verne Technology Group
 ¿Qué sabes de Machine Learning? ¿Conoces sus aplicaciones y cómo funciona? ¿Te gustaría aprender sus fundamentos y cómo aplicarlo en tu negocio? 
 Machine Learning ha llegado para quedarse y su aplicación se está extendiendo cada vez más y en diversos sectores: banca, medicina, automoción, predicción de stocks, ventas, telecomunicaciones…  
