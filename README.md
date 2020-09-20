@@ -1,3 +1,4 @@
+![SolidQ](https://antoniosql.github.io/images/SolidQ_Verne.png) 
 # Curso de Machine Learning - SolidQ / Verne Technology Group
 
 ¿Qué sabes de Machine Learning? ¿Conoces sus aplicaciones y cómo funciona? ¿Te gustaría aprender sus fundamentos y cómo aplicarlo en tu negocio? 
