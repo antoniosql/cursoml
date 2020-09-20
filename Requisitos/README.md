@@ -1,3 +1,5 @@
+![](/recursos/SolidQ_Verne.png)
+
 # Requisitos para aprovechar el curso
 
 ## Requisitos técnicos
@@ -7,7 +9,7 @@ Para poder reproducir las demostraciones e intentar los ejercicios es necesario 
 - Visual Studio Code
 - Extensión de Python para Visual Studio Code
 
-
+En caso de que no queráis instalar nada, podéis utilizar el entorno de Google Colaboratory https://colab.research.google.com/notebooks/welcome.ipynb en el que podréis guardar y ejecutar los notebooks jupyter. 
 
 ## Conocimientos necesarios
 
