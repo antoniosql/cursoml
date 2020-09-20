@@ -1,0 +1,1 @@
+dta.isnull().head(10)

@@ -5,3 +5,7 @@ pip install pandas
 pip install pyodbc
 pip install matplotlib
 pip install sklearn
+pip install sqlite3
+
+!pip install statsmodels
+!pip install scipy==1.2 --upgrade

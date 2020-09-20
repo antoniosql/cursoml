@@ -1,0 +1,1 @@
+print(dta.corr())
