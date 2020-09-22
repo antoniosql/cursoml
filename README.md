@@ -30,3 +30,4 @@ Los objetivos de este curso son introducir al alumno en el mundo del Machine Lea
     - Validación Cruzada
     - Reducción de dimensionalidad
 6.	Despliegue y Mantenimiento
+7.  Interpretabilidad de Modelos de ML
