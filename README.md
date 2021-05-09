@@ -1,4 +1,4 @@
-![SolidQ](https://antoniosql.github.io/images/SolidQ_Verne.png) 
+![Verne](https://www.vernegroup.com/wp-content/uploads/2020/07/LOGO-VERNE-TECHNOLOGY-GROUP-3.png)
 # Desarrollo de Soluciones con Machine Learning
 
 ¿Qué sabes de Machine Learning? ¿Conoces sus aplicaciones y cómo funciona? ¿Te gustaría aprender sus fundamentos y cómo aplicarlo en tu negocio? 
