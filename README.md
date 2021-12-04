@@ -1,4 +1,4 @@
-![Verne](https://www.vernegroup.com/wp-content/uploads/2020/07/LOGO-VERNE-TECHNOLOGY-GROUP-3.png)
+![Verne](https://github.com/antoniosql/cursoml/blob/master/logo_VerneGroup_color.png)
 # Desarrollo de Soluciones con Machine Learning
 
 ¿Qué sabes de Machine Learning? ¿Conoces sus aplicaciones y cómo funciona? ¿Te gustaría aprender sus fundamentos y cómo aplicarlo en tu negocio? 
